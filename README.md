@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nonamefox🦊
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning jPTS
+- 🌱 Certified eJPT
 - 💞️ I’m looking to collaborate on something that I can help you with.
 
 
